@@ -1,6 +1,6 @@
 <center>
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eterst&hide=contr,issues&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=Welcome%20to%20my%20profile%20👋🔭)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eterst&hide=contr,issues&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=Welcome!!%20👋🔭)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eterst&count_private=true&theme=github_dark)](https://github.com/nvb-uy)
 
