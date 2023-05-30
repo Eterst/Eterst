@@ -1,12 +1,11 @@
 <center>
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eterst&hide=contr,issues&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true&custom_title=Welcome%20to%20my%20profile%20👋🔭)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eterst&hide=contr,issues&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=Welcome%20to%20my%20profile%20👋🔭)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eterst&count_private=true&theme=cobalt)](https://github.com/nvb-uy)
 
 </center>
 <!--
-**nvb-uy/nvb-uy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
